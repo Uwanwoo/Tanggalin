@@ -14,11 +14,13 @@ Tanggalin adalah aplikasi manajemen aktivitas harian yang memungkinkan pengguna 
 ☁️ Integrasi dengan Google Calendar
 🌐 Bisa dijalankan via browser (Chrome) atau emulator
 
+
 🛠️ Teknologi yang Digunakan
 -Flutter (dengan bahasa pemrograman Dart)
 -Firebase (untuk backend dan autentikasi)
 -Google Calendar API (untuk sinkronisasi jadwal)
 -Visual Studio Code (sebagai text editor)
+
 
 
 ▶️ Cara Menjalankan Aplikasi
