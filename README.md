@@ -6,13 +6,13 @@ Deskripsi Singkat:
 Tanggalin adalah aplikasi manajemen aktivitas harian yang memungkinkan pengguna untuk membuat daftar aktivitas (to-do list) yang terhubung langsung dengan kalender. Aplikasi ini dilengkapi dengan fitur CRUD (Create, Read, Update, Delete), autentikasi user (register & login), serta integrasi dengan Google Calendar.
 
 ✨ Fitur Utama
-✅ Manajemen daftar aktivitas harian (to-do list)
-📆 Kalender terintegrasi untuk penjadwalan
-🔐 Sistem autentikasi (register & login)
-🔄 Fungsi CRUD untuk aktivitas
-🔗 Terhubung ke Firebase
-☁️ Integrasi dengan Google Calendar
-🌐 Bisa dijalankan via browser (Chrome) atau emulator
+- Manajemen daftar aktivitas harian (to-do list)
+- Kalender terintegrasi untuk penjadwalan
+- Sistem autentikasi (register & login)
+- Fungsi CRUD untuk aktivitas
+- Terhubung ke Firebase
+- Integrasi dengan Google Calendar
+- Bisa dijalankan via browser (Chrome) atau emulator
 
 
 🛠️ Teknologi yang Digunakan
@@ -32,6 +32,7 @@ Tanggalin adalah aplikasi manajemen aktivitas harian yang memungkinkan pengguna 
 
   
 🖼️ Tampilan UI
+
 <img src="https://github.com/user-attachments/assets/d8bdbbcc-24e7-4dd5-85f9-f8b43830f2ca" width="300" />
 <img src="https://github.com/user-attachments/assets/0d353bbd-62e5-4959-87bf-b5076b1ca29d" width="300" />
 <img src="https://github.com/user-attachments/assets/049b00a3-2aff-4b4c-aebb-6b163b9606df" width="300" />
