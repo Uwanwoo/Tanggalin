@@ -11,7 +11,9 @@ Cara menjalankan aplikasi:
 - Lalu klik enter dan aplikasi akan tampil
 
   Tampilan UI
-<![Screenshot 2025-06-11 190224](https://github.com/user-attachments/assets/d8bdbbcc-24e7-4dd5-85f9-f8b43830f2ca) Width="300"/>
+  
+
+<img src="![Screenshot 2025-06-11 190224](https://github.com/user-attachments/assets/d8bdbbcc-24e7-4dd5-85f9-f8b43830f2ca) " width="300" />
 ![Screenshot 2025-06-11 190422](https://github.com/user-attachments/assets/0d353bbd-62e5-4959-87bf-b5076b1ca29d)
 ![Screenshot 2025-06-11 190342](https://github.com/user-attachments/assets/049b00a3-2aff-4b4c-aebb-6b163b9606df)
 ![Screenshot 2025-06-11 190329](https://github.com/user-attachments/assets/2b15eb4e-9af1-4bf3-b59d-a2233f979b0a)
