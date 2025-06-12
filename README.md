@@ -1,14 +1,39 @@
-# Tanggalin
+📅 Tanggalin
+Developer: Muhammad Ikhwan Firdaus
+Deskripsi Singkat:
+Tanggalin adalah aplikasi manajemen aktivitas harian yang memungkinkan pengguna untuk membuat daftar aktivitas (to-do list) yang terhubung langsung dengan kalender. Aplikasi ini dilengkapi dengan fitur CRUD (Create, Read, Update, Delete), autentikasi user (register & login), serta integrasi dengan Google Calendar.
 
-Muhammad Ikhwan Firdaus.
-Dengan fungsionalitas bisa membuat list list aktifitas harian yang dilengkapi kalender dengan fitur CRUD dan Regis/login.
-Menggunakan flutter dengan bahasa pemrograman .Dart dan terkoneksi ke firebase, serta terintegrasi dengan google kalender.
+✨ Fitur Utama
+✅ Manajemen daftar aktivitas harian (to-do list)
+
+📆 Kalender terintegrasi untuk penjadwalan
+
+🔐 Sistem autentikasi (register & login)
+
+🔄 Fungsi CRUD untuk aktivitas
+
+🔗 Terhubung ke Firebase
+
+☁️ Integrasi dengan Google Calendar
+
+🌐 Bisa dijalankan via browser (Chrome) atau emulator
+
+🛠️ Teknologi yang Digunakan
+Flutter (dengan bahasa pemrograman Dart)
+
+Firebase (untuk backend dan autentikasi)
+
+Google Calendar API (untuk sinkronisasi jadwal)
+
+Visual Studio Code (sebagai text editor)
+
+
 
 Cara menjalankan aplikasi:
 - buka projek flutter di vs code
 - ketikkan flutter run -d chrome pada terminal
 - atau kalau ingin menggunakan emulator ketikkan flutter emulators --launcher <emulator>
-- Lalu klik enter dan aplikasi akan tampil
+- Lalu klik enter dan aplikasi akan tampil di browser atau emulator
 
   Tampilan UI
 <img src="https://github.com/user-attachments/assets/d8bdbbcc-24e7-4dd5-85f9-f8b43830f2ca" width="300" />
