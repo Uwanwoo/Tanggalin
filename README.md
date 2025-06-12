@@ -1,21 +1,17 @@
 📅 Tanggalin
+
 Developer: Muhammad Ikhwan Firdaus
+
 Deskripsi Singkat:
 Tanggalin adalah aplikasi manajemen aktivitas harian yang memungkinkan pengguna untuk membuat daftar aktivitas (to-do list) yang terhubung langsung dengan kalender. Aplikasi ini dilengkapi dengan fitur CRUD (Create, Read, Update, Delete), autentikasi user (register & login), serta integrasi dengan Google Calendar.
 
 ✨ Fitur Utama
 ✅ Manajemen daftar aktivitas harian (to-do list)
-
 📆 Kalender terintegrasi untuk penjadwalan
-
 🔐 Sistem autentikasi (register & login)
-
 🔄 Fungsi CRUD untuk aktivitas
-
 🔗 Terhubung ke Firebase
-
 ☁️ Integrasi dengan Google Calendar
-
 🌐 Bisa dijalankan via browser (Chrome) atau emulator
 
 🛠️ Teknologi yang Digunakan
