@@ -15,23 +15,21 @@ Tanggalin adalah aplikasi manajemen aktivitas harian yang memungkinkan pengguna 
 🌐 Bisa dijalankan via browser (Chrome) atau emulator
 
 🛠️ Teknologi yang Digunakan
-Flutter (dengan bahasa pemrograman Dart)
-
-Firebase (untuk backend dan autentikasi)
-
-Google Calendar API (untuk sinkronisasi jadwal)
-
-Visual Studio Code (sebagai text editor)
+-Flutter (dengan bahasa pemrograman Dart)
+-Firebase (untuk backend dan autentikasi)
+-Google Calendar API (untuk sinkronisasi jadwal)
+-Visual Studio Code (sebagai text editor)
 
 
-
-Cara menjalankan aplikasi:
+▶️ Cara Menjalankan Aplikasi
 - buka projek flutter di vs code
 - ketikkan flutter run -d chrome pada terminal
 - atau kalau ingin menggunakan emulator ketikkan flutter emulators --launcher <emulator>
 - Lalu klik enter dan aplikasi akan tampil di browser atau emulator
 
-  Tampilan UI
+
+  
+🖼️ Tampilan UI
 <img src="https://github.com/user-attachments/assets/d8bdbbcc-24e7-4dd5-85f9-f8b43830f2ca" width="300" />
 <img src="https://github.com/user-attachments/assets/0d353bbd-62e5-4959-87bf-b5076b1ca29d" width="300" />
 <img src="https://github.com/user-attachments/assets/049b00a3-2aff-4b4c-aebb-6b163b9606df" width="300" />
